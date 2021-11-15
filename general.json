@@ -1,0 +1,533 @@
+[
+    {
+        "date": "25.10",
+        "numerek": [
+            "8",
+            "13"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "26.10",
+        "numerek": [
+            "30",
+            "1"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "27.10",
+        "numerek": [
+            "20",
+            "25"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "28.10",
+        "numerek": [
+            "10",
+            "12"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "29.10",
+        "numerek": [
+            "21",
+            "31"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "02.11",
+        "numerek": [
+            "6",
+            "18"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "03.11",
+        "numerek": [
+            "16",
+            "14"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "04.11",
+        "numerek": [
+            "3",
+            "26"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "05.11",
+        "numerek": [
+            "2",
+            "17"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "08.11",
+        "numerek": [
+            "11",
+            "28"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "7 316"
+    },
+    {
+        "date": "09.11",
+        "numerek": [
+            "30",
+            "5"
+        ],
+        "dyzurni": "null",
+        "zakazenia": "13 644"
+    },
+    {
+        "date": "10.11",
+        "numerek": [
+            "23",
+            "2"
+        ],
+        "dyzurni": [
+            "11",
+            "22"
+        ],
+        "zakazenia": "18 550"
+    },
+    {
+        "date": "11.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "19 074"
+    },
+    {
+        "date": "12.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "12 965"
+    },
+    {
+        "date": "13.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "14 292"
+    },
+    {
+        "date": "14.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "14 442"
+    },
+    {
+        "date": "15.11",
+        "numerek": [
+            "24",
+            "15"
+        ],
+        "dyzurni": [
+            "12",
+            "21"
+        ],
+        "zakazenia": "9 512"
+    },
+    {
+        "date": "16.11",
+        "numerek": [
+            "20",
+            "4"
+        ],
+        "dyzurni": [
+            "12",
+            "21"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "17.11",
+        "numerek": [
+            "29",
+            "7"
+        ],
+        "dyzurni": [
+            "12",
+            "21"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "18.11",
+        "numerek": [
+            "8",
+            "27"
+        ],
+        "dyzurni": [
+            "12",
+            "21"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "19.11",
+        "numerek": [
+            "10",
+            "22"
+        ],
+        "dyzurni": [
+            "12",
+            "21"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "20.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "21.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "22.11",
+        "numerek": [
+            "4",
+            "13"
+        ],
+        "dyzurni": [
+            "13",
+            "20"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "23.11",
+        "numerek": [
+            "22",
+            "19"
+        ],
+        "dyzurni": [
+            "13",
+            "20"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "24.11",
+        "numerek": [
+            "17",
+            "16"
+        ],
+        "dyzurni": [
+            "13",
+            "20"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "25.11",
+        "numerek": [
+            "9",
+            "14"
+        ],
+        "dyzurni": [
+            "13",
+            "20"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "26.11",
+        "numerek": [
+            "1",
+            "6"
+        ],
+        "dyzurni": [
+            "13",
+            "20"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "27.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "28.11",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "29.11",
+        "numerek": [
+            "8",
+            "2"
+        ],
+        "dyzurni": [
+            "14",
+            "19"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "30.11",
+        "numerek": [
+            "6",
+            "29"
+        ],
+        "dyzurni": [
+            "14",
+            "19"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "01.12",
+        "numerek": [
+            "23",
+            "21"
+        ],
+        "dyzurni": [
+            "14",
+            "19"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "02.12",
+        "numerek": [
+            "9",
+            "27"
+        ],
+        "dyzurni": [
+            "14",
+            "19"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "03.12",
+        "numerek": [
+            "32",
+            "7"
+        ],
+        "dyzurni": [
+            "14",
+            "19"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "04.12",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "05.12",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "06.12",
+        "numerek": [
+            "11",
+            "26"
+        ],
+        "dyzurni": [
+            "15",
+            "18"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "07.12",
+        "numerek": [
+            "15",
+            "25"
+        ],
+        "dyzurni": [
+            "15",
+            "18"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "08.12",
+        "numerek": [
+            "1",
+            "32"
+        ],
+        "dyzurni": [
+            "15",
+            "18"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "09.12",
+        "numerek": [
+            "10",
+            "7"
+        ],
+        "dyzurni": [
+            "15",
+            "18"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "10.12",
+        "numerek": [
+            "19",
+            "25"
+        ],
+        "dyzurni": [
+            "15",
+            "18"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "11.12",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "12.12",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "13.12",
+        "numerek": [
+            "4",
+            "15"
+        ],
+        "dyzurni": [
+            "16",
+            "17"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "14.12",
+        "numerek": [
+            "18",
+            "19"
+        ],
+        "dyzurni": [
+            "16",
+            "17"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "15.12",
+        "numerek": [
+            "20",
+            "22"
+        ],
+        "dyzurni": [
+            "16",
+            "17"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "16.12",
+        "numerek": [
+            "11",
+            "15"
+        ],
+        "dyzurni": [
+            "16",
+            "17"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "17.12",
+        "numerek": [
+            "24",
+            "3"
+        ],
+        "dyzurni": [
+            "16",
+            "17"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "18.12",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "19.12",
+        "numerek": "null",
+        "dyzurni": "null",
+        "zakazenia": "null"
+    },
+    {
+        "date": "20.12",
+        "numerek": [
+            "27",
+            "28"
+        ],
+        "dyzurni": [
+            "1",
+            "33"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "21.12",
+        "numerek": [
+            "12",
+            "31"
+        ],
+        "dyzurni": [
+            "1",
+            "33"
+        ],
+        "zakazenia": "null"
+    },
+    {
+        "date": "22.12",
+        "numerek": [
+            "33",
+            "5"
+        ],
+        "dyzurni": [
+            "1",
+            "33"
+        ],
+        "zakazenia": "null"
+    }
+]
